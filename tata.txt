@@ -1,0 +1,6 @@
+to add the files to Github;
+
+19. git remote add origin "url" - to the files to github
+20. git push remote origin master - push the code
+21. git remote -v: to check the status.
+origin - a nick name for the repo
